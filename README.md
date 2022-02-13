@@ -3,6 +3,8 @@ Multiple algorithms to determine the opacity of non-fugitive/fugitive emission.
 These implementations are based on the following references.
 "LimitsMethod" does not follow any reference and is my original work.
 
+CURRENTLY WAITING FOR APPROVAL TO MAKE PUBLIC
+
 References:
 
 [Carretero2019] Carretero-Peña, Selena, Lorenzo Calvo Blázquez, and Eduardo Pinilla-Gil. "Estimation of PM10 levels and sources in air quality networks by digital analysis of smartphone camera images taken from samples deposited on filters." Sensors, Vol. 19, No.21, 4791, 2019.
